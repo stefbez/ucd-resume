@@ -18,7 +18,7 @@
     background-color: #9b59b6;
 }
 
-bg-color-contact {
+.bg-color-contact {
     background-color: #ffffff;
 }
 
@@ -38,7 +38,13 @@ bg-color-contact {
     background-color: #525252
 }
 
+.ui-menu-color-github {
+    background-color: #ee8bc8
+}
 
+.ui-menu-color-interests {
+    background-color: #35b81b
+}
 
 /* ------------------------------------------------------ Special paddings/margins/text */
 
@@ -370,3 +376,5 @@ button[type="submit"] {
         max-width: 50%;
     }
 }
+
+div#map {min-height: 360px;}
